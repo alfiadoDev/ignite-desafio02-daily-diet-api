@@ -111,7 +111,7 @@ Sinta-se à vontade para abrir issues, contribuir com melhorias ou sugerir funci
 
 ## 🧑‍💻 Autor
 
-Desenvolvido com 💚 por **[Seu Nome ou Equipe]**
+Desenvolvido com 💚 por **[Alfiado Constantino]**
 
 ---
 
